@@ -1,3 +1,6 @@
 this is practice and a dummy file
 
 this is second line
+
+this is trying for new branch
+for ammend
